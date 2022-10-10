@@ -34,3 +34,9 @@ body {
     transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 
 }
+.submit-button{
+    background-color: #50f703;
+    color: rgb(15, 0, 102);
+    padding: 2%;
+    font-size: 1.15rem;
+}
